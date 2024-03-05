@@ -1,5 +1,6 @@
 # Offershub.com.tool
 https://offershub.com/
+https://offershub.com/affiliate-network/
 
 sch: https://www.google.com/search?q=offer+hub+reviews
 
